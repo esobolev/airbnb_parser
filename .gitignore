@@ -1,4 +1,4 @@
-/json
-/pages
-/rooms
-/output
+/json/**
+/pages/**
+/rooms/**
+/output/**

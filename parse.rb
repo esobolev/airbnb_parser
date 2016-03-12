@@ -3,8 +3,6 @@
 require 'open-uri'
 require 'nokogiri'
 require 'json'
-require_relative 'underscore_string'
-
 
 ## Input Params
 LOCALE   = 'nl'
